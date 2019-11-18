@@ -1,0 +1,10 @@
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\bin\Debug\eHHArtikelDatenbank.exe.config
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\bin\Debug\eHHArtikelDatenbank.exe
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\bin\Debug\eHHArtikelDatenbank.pdb
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.csprojAssemblyReference.cache
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.FormMain.resources
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.Properties.Resources.resources
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.csproj.GenerateResource.cache
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.csproj.CoreCompileInputs.cache
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.exe
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Debug\eHHArtikelDatenbank.pdb

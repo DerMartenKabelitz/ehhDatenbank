@@ -1,0 +1,9 @@
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\bin\Release\eHHArtikelDatenbank.exe.config
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\bin\Release\eHHArtikelDatenbank.exe
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\bin\Release\eHHArtikelDatenbank.pdb
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Release\eHHArtikelDatenbank.FormMain.resources
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Release\eHHArtikelDatenbank.Properties.Resources.resources
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Release\eHHArtikelDatenbank.csproj.GenerateResource.cache
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Release\eHHArtikelDatenbank.csproj.CoreCompileInputs.cache
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Release\eHHArtikelDatenbank.exe
+C:\Projekte\eHHArtikeldatenDank\eHHArtikelDatenbank\eHHArtikelDatenbank\obj\Release\eHHArtikelDatenbank.pdb
